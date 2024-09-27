@@ -1,0 +1,8 @@
+Name ID Range Damage Risk dH dM dL Frame
+punchM 3 175 25 40 0 1 0 2
+kickL 6 225 20 30 0 1 1 2
+kickH 10 225 20 30 1 1 0 3
+electricShock 11 250 50 50 0 1 1 8
+crouchPunch 15 175 20 35 0 1 1 2
+crouchKick 16 225 15 25 0 1 1 2
+highPunch 17 175 25 35 1 1 1 2

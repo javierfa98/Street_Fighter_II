@@ -8,6 +8,6 @@ Partial recreation of the Street Fighter II videogame programmed in Java with tw
 - `StreetFigherII.pdf`: Project report (Spanish).
 
 ## Demo
-<div>
+<p align="center">
   <img src="video.gif" alt="Demo" width="600"/>
-</div>
+</p>
